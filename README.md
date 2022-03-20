@@ -3,7 +3,7 @@ GNames = 0xc483140
 GObjects = 0xc26e660
 
 
-
+---------------------------------
 namespace offsets
 {
 	uintptr_t GNames = 0xc483140;
